@@ -1,4 +1,4 @@
-# Planinarski_Dom
+# PlaninarskiDom
 Kreirati klasu ​Planina ​koja od privatnih atributa ima: 
 ime planine 
 naziv države u kojoj se nalazi 
